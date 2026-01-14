@@ -12,7 +12,7 @@ The system is modeled as a service system with visitor flows, limited resources,
 
 ## Project Workflow
 
-### 1. Modeling the Current State (As-Is)
+### 1. Modeling the Current State
 
 In this stage, the current state of the water park was modeled by defining:
 - Visitor types
